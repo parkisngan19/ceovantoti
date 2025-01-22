@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Văn ToTi – Người Dẫn Dắt FM88 Vươn Tầm Cao Mới
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Văn ToTi <https://fm88vietnam.co/ceo-van-toti/>`_ là người đứng đầu FM88, sân chơi uy tín hàng đầu tại Việt Nam. Với tầm nhìn chiến lược và khả năng lãnh đạo xuất sắc, anh đã đưa FM88 phát triển mạnh mẽ và vươn lên thành một trong những sân chơi đáng tin cậy nhất trong ngành chơi game trực tuyến. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của CEO Văn ToTi, FM88 không chỉ mở rộng quy mô dịch vụ mà còn nâng cao trải nghiệm người chơi, cam kết mang đến một môi trường chơi game an toàn, minh bạch và chuyên nghiệp. Sự tận tâm và nỗ lực của anh trong việc xây dựng FM88 đã tạo ra một nền tảng chơi game với tỷ lệ thắng cao, giao diện thân thiện và dịch vụ khách hàng xuất sắc.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 667 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0935795200. 
 
-.. toctree::
+Email: contact@fm88vietnam.co. 
 
-   usage
-   api
+Website: https://fm88vietnam.co/ceo-van-toti/ 
+
+#vantoti #ceovantoti #ceovantoti_fm88
